@@ -1,0 +1,8 @@
+-----------------------------------Catch The Egg-----------------------------------
+
+1) Press Left and Right arrow key to move the basket.
+2) For one egg catch you will gain one point.
+3) For an egg miss, you will loose a life.
+4) When all your 5 lives end, the game will be over.
+
+Note :- Developer/hackmode/godmode's password is prakhar-THECoder.
